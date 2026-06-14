@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/kampanyeKIA/static/css/main.b925e47e.css",
+    "main.js": "/kampanyeKIA/static/js/main.5737a36f.js",
+    "static/media/kantor_dispendukcapil.png": "/kampanyeKIA/static/media/kantor_dispendukcapil.fa11393523fa50507b30.png",
+    "static/media/kia_ledok_kulon__2_.jpeg": "/kampanyeKIA/static/media/kia_ledok_kulon__2_.3c72998e8d29398304f2.jpeg",
+    "static/media/kauman_1.jpeg": "/kampanyeKIA/static/media/kauman_1.04a06a4fd311b47639b5.jpeg",
+    "static/media/kauman_2.jpeg": "/kampanyeKIA/static/media/kauman_2.64d3ec6dcc06b3f380e7.jpeg",
+    "static/media/kia_ledok_wetan_2.jpeg": "/kampanyeKIA/static/media/kia_ledok_wetan_2.4ce3d896289e475bf11c.jpeg",
+    "static/media/kia_klangon__2_.jpeg": "/kampanyeKIA/static/media/kia_klangon__2_.9905bf51001d96c35213.jpeg",
+    "static/media/bojonegoro.jpg": "/kampanyeKIA/static/media/bojonegoro.3de81dcec5846bcf134c.jpg",
+    "static/media/kia.jpeg": "/kampanyeKIA/static/media/kia.5dded6a7058ba4690269.jpeg",
+    "static/media/kia_ledok_kulon.jpeg": "/kampanyeKIA/static/media/kia_ledok_kulon.60d7a58dc651a02d60fc.jpeg",
+    "static/media/sotk_dukcapil.png": "/kampanyeKIA/static/media/sotk_dukcapil.dd3c9a8eee25c472bcc4.png",
+    "static/media/kia_klangon.jpeg": "/kampanyeKIA/static/media/kia_klangon.5fd2944b00a175a4d7f4.jpeg",
+    "static/media/struktur.png": "/kampanyeKIA/static/media/struktur.4cd70b37c2ca12716cea.png",
+    "static/media/kia_ledok_wetan.jpeg": "/kampanyeKIA/static/media/kia_ledok_wetan.96a22ca4fda57195d29e.jpeg",
+    "static/media/kia_kauman.jpeg": "/kampanyeKIA/static/media/kia_kauman.6444c37486d1d1be7c35.jpeg",
+    "static/media/visi.png": "/kampanyeKIA/static/media/visi.a57a8e804c5e9e84a29e.png",
+    "static/media/Gambar_Berkas.jpg": "/kampanyeKIA/static/media/Gambar_Berkas.b712c89021010465a63f.jpg",
+    "static/media/profil.png": "/kampanyeKIA/static/media/profil.bc50c26b1c505e0ff7ed.png",
+    "static/media/Gambar_Tentang.jpg": "/kampanyeKIA/static/media/Gambar_Tentang.02fc8adf8d19ac6e197d.jpg",
+    "static/media/Gambar_Profil.jpg": "/kampanyeKIA/static/media/Gambar_Profil.818c05344ec09bfc9435.jpg",
+    "static/media/peta_indonesia.jpg": "/kampanyeKIA/static/media/peta_indonesia.5e23ad5751e65415c5f0.jpg",
+    "static/media/Gambar_GIS.jpg": "/kampanyeKIA/static/media/Gambar_GIS.2cbd5d278b2c210670a7.jpg",
+    "index.html": "/kampanyeKIA/index.html",
+    "main.b925e47e.css.map": "/kampanyeKIA/static/css/main.b925e47e.css.map",
+    "main.5737a36f.js.map": "/kampanyeKIA/static/js/main.5737a36f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b925e47e.css",
+    "static/js/main.5737a36f.js"
+  ]
+}
