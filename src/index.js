@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import LedokKulon from './pages/LedokKulon';
 import LedokWetan from './pages/LedokWetan';
@@ -13,7 +13,7 @@ import TentangPage from './pages/Tentang';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/ledok-kulon" element={<LedokKulon />} />
@@ -24,6 +24,6 @@ root.render(
         <Route path="/profil" element={<ProfilPage />} />
         <Route path="/tentang" element={<TentangPage />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   </React.StrictMode>
 );
