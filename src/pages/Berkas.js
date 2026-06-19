@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { FaWhatsapp, FaTiktok, FaInstagram } from 'react-icons/fa';
 import { SiGmail } from 'react-icons/si';
 import { FaShieldAlt, FaIdCard, FaSchool, FaHospital, FaUserCheck } from 'react-icons/fa';
+import pamfletKIA from '../images/PAMFLET_KIA.png';
 import './Berkas.css';
 
 function Berkas() {
@@ -95,6 +96,16 @@ function Berkas() {
           <div className="proses-card">
             <p className="proses-label">Proses Pencetakan KIA</p>
             <p className="proses-value">Dilakukan 1 Hari Kerja</p>
+          </div>
+        </div>
+      </section>
+
+      {/* PAMFLET KIA */}
+      <section className="pamflet-section">
+        <div className="container">
+          <h2 className="pamflet-title">Pamflet Kartu Identitas Anak (KIA)</h2>
+          <div className="pamflet-wrap">
+            <img src={pamfletKIA} alt="Pamflet Kartu Identitas Anak (KIA)" className="pamflet-img" />
           </div>
         </div>
       </section>

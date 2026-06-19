@@ -107,6 +107,38 @@ body { font-family: 'Plus Jakarta Sans', sans-serif; background: var(--white); c
 .footer-contact-text p, .footer-col p { font-size: 13px; margin: 0; opacity: 0.95; color: white; }
 .footer-address { text-align: center; font-size: 13px; opacity: 0.85; padding-top: 16px; border-top: 1px solid rgba(255,255,255,0.2); color: white; }
 
+.pamflet-section {
+  padding: 50px 0;
+  background: #fafafa;
+  text-align: center;
+}
+.pamflet-title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 24px;
+  color: var(--dark, #1a1a1a);
+}
+.pamflet-wrap {
+  display: flex;
+  justify-content: center;
+}
+.pamflet-img {
+  max-width: 100%;
+  width: 500px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+.pamflet-caption {
+  margin-top: 16px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--pink, #d6336c);
+}
+
+@media (max-width: 768px) {
+  .pamflet-img { width: 100%; }
+}
+
 /* RESPONSIVE */
 @media (max-width: 768px) {
   .navbar-menu { display: none; position: absolute; top: 70px; left: 0; right: 0; background: white; flex-direction: column; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
