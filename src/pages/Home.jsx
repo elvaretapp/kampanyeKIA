@@ -113,10 +113,10 @@ function Home() {
       <section className="icon-menu">
         <div className="container">
           <div className="icon-grid">
-            <Link to="/gis" className="icon-item">
-              <div className="icon-box"><img src={gambarGIS} alt="GIS" /></div>
-              <span>GIS</span>
-            </Link>
+              <a href={`${process.env.PUBLIC_URL}/GIS/webgis.html`} className="icon-item">
+                <div className="icon-box"><img src={gambarGIS} alt="GIS" /></div>
+                <span>GIS</span>
+              </a>
             <Link to="/berkas" className="icon-item">
               <div className="icon-box"><img src={gambarBerkas} alt="Berkas" /></div>
               <span>Berkas</span>
