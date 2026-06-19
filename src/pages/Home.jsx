@@ -35,7 +35,7 @@ const beritaData = [
     id: 3,
     kategori: 'KIA',
     judul: 'Jemput Bola Pembuatan Kartu Identitas Anak(KIA), Kelurahan Klangon, Bojonegoro',
-    tanggal: '13 Oktober 2025',
+    tanggal: '12 Oktober 2025',
     img: kiaKlangon,
     link: '/klangon',
   },
@@ -77,7 +77,7 @@ function Home() {
           </div>
           <ul className={`navbar-menu ${menuOpen ? 'open' : ''}`}>
             <li><Link to="/">Home</Link></li>
-            <li><Link to="/gis">GIS</Link></li>
+            <li><a href={`${process.env.PUBLIC_URL}/GIS/webgis.html`}>GIS</a></li>
             <li><Link to="/berkas">Berkas</Link></li>
             <li><Link to="/profil">Profil</Link></li>
             <li><Link to="/tentang">Tentang</Link></li>

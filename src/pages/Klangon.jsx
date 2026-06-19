@@ -24,7 +24,7 @@ function Klangon() {
           </div>
           <ul className={`navbar-menu ${menuOpen ? 'open' : ''}`}>
             <li><Link to="/">Home</Link></li>
-            <li><Link to="/gis">GIS</Link></li>
+            <li><a href={`${process.env.PUBLIC_URL}/GIS/webgis.html`}>GIS</a></li>
             <li><Link to="/berkas">Berkas</Link></li>
             <li><Link to="/profil">Profil</Link></li>
             <li><Link to="/tentang">Tentang</Link></li>
