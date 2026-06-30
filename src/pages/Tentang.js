@@ -71,7 +71,7 @@ function TentangPage() {
           <div className="detail-meta">
             <span>🕒 Pelayanan Setiap Hari Kerja</span>
             <span>📍 Jl. Patimura 26 A, Bojonegoro</span>
-            <span>👥 Terdiri dari 3 Bidang  1 Sekretariat</span>
+            <span>👥 Terdiri dari 3 Bidang & 1 Sekretariat</span>
           </div>
         </div>
       </section>
