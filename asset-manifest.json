@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kampanyeKIA/static/css/main.10ed9351.css",
-    "main.js": "/kampanyeKIA/static/js/main.47f165aa.js",
+    "main.js": "/kampanyeKIA/static/js/main.7d3a744d.js",
     "static/media/PAMFLET_KIA.png": "/kampanyeKIA/static/media/PAMFLET_KIA.03150e7067cd4cb3caad.png",
     "static/media/kantor_dispendukcapil.png": "/kampanyeKIA/static/media/kantor_dispendukcapil.fa11393523fa50507b30.png",
     "static/media/kia_ledok_kulon__2_.jpeg": "/kampanyeKIA/static/media/kia_ledok_kulon__2_.3c72998e8d29398304f2.jpeg",
@@ -26,10 +26,10 @@
     "static/media/Gambar_GIS.jpg": "/kampanyeKIA/static/media/Gambar_GIS.2cbd5d278b2c210670a7.jpg",
     "index.html": "/kampanyeKIA/index.html",
     "main.10ed9351.css.map": "/kampanyeKIA/static/css/main.10ed9351.css.map",
-    "main.47f165aa.js.map": "/kampanyeKIA/static/js/main.47f165aa.js.map"
+    "main.7d3a744d.js.map": "/kampanyeKIA/static/js/main.7d3a744d.js.map"
   },
   "entrypoints": [
     "static/css/main.10ed9351.css",
-    "static/js/main.47f165aa.js"
+    "static/js/main.7d3a744d.js"
   ]
 }
